@@ -50,9 +50,6 @@ public class Microphone {
     }
 
 
-
-
-
     //Actions / Behaviours / Methods
     public void turnOff(){
         System.out.println(this.name + " Turn Off");

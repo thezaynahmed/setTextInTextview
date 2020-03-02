@@ -73,25 +73,6 @@ public class oop {
 //        System.out.println(myArray[2]);
 //        System.out.println(names[0]);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //        Employee employee = new Employee();
 //        employee.setFirstName("Employee");
 //        employee.setLastName("Elast");

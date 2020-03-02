@@ -1,8 +1,5 @@
 package com.example.zain;
-import java.awt.datatransfer.SystemFlavorMap;
-import java.sql.SQLOutput;
 import java.util.Arrays;
-import jdk.nashorn.internal.runtime.arrays.ArrayIndex;
 
 public class MyClass {
     public static void main(String[] args) {
@@ -15,7 +12,6 @@ public class MyClass {
 //        result += 1;
 //        result = result + 1;
 //        System.out.println(result);
-//
 //
 //
 //        System.out.println(divideNumbers(5, 4) * 5);
